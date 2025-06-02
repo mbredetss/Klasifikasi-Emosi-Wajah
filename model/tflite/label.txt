@@ -1,0 +1,6 @@
+0 Happy
+1 Sad
+2 Ahegao
+3 Angry
+4 Surprise
+5 Neutral
